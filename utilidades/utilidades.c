@@ -462,10 +462,8 @@ int generaAleatorioEntero (int limite)
 //
 //  PARÁMETROS DE ENTRADA:
 //
-//    nlineas
+//    Ninguno
 //
-//      Variable entera que recibirá del exterior el número de líneas en blanco
-//      que se va a desplazar el cursor hacia abajo.
 //
 //  VALOR DE SALIDA:
 //
